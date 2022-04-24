@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](https://colab.research.google.com/drive/1p9QezZM0fDgQTb3tj2QA7jD9CtAJcUmP?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
