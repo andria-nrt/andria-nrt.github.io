@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Sample Project
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Other Project
 
 - [Project 1 Title](https://colab.research.google.com/drive/15z4WAqWPJjlqUW2rcNWHvA5IrPZQpA5s?usp=sharing)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 2 Title](https://colab.research.google.com/drive/1AJVK_TsUdzESiLKVJ4-79oF2kPnPZOmx?usp=sharing)
+
 
 ---
 
