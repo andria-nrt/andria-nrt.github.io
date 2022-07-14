@@ -9,19 +9,18 @@
 
 ---
 [Dashboard](https://datastudio.google.com/reporting/27b571e6-c5b5-4239-925d-78ff362cb082)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Dashboard.png?raw=true"/>
 
 ---
 [Power Point](https://www.canva.com/design/DAFGYssC4xg/om2yrYwzP4qTHErjyPAMrQ/view?utm_content=DAFGYssC4xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PPT.png?raw=true"/>
 
 ---
 
 ### Other Project
 
-- [Project 1 Title](https://colab.research.google.com/drive/15z4WAqWPJjlqUW2rcNWHvA5IrPZQpA5s?usp=sharing)
-- [Project 2 Title](https://colab.research.google.com/drive/1AJVK_TsUdzESiLKVJ4-79oF2kPnPZOmx?usp=sharing)
-- [Project 3 Title](https://colab.research.google.com/drive/1AJVK_TsUdzESiLKVJ4-79oF2kPnPZOmx?usp=sharing)
+- [Prediksi Harga Jual Rumah](https://colab.research.google.com/drive/1OCDnLrUHIfUcbbAvJgtyoWdekfYJb0vZ?usp=sharing)
+- [Prediksi Biaya Asuransi](https://colab.research.google.com/drive/1USAq4Kak-0f2tKP9z9shW5wqYF6wa8V2?usp=sharing)
 
 
 ---
