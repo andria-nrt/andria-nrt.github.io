@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Power Point](https://www.canva.com/design/DAFGYssC4xg/om2yrYwzP4qTHErjyPAMrQ/viewutm_content=DAFGYssC4xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Power Point](https://www.canva.com/design/DAFGYssC4xg/om2yrYwzP4qTHErjyPAMrQ/view?utm_content=DAFGYssC4xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
